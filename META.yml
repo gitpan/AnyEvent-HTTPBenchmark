@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               AnyEvent-HTTPBenchmark
-version:            0.06
-abstract:           The tool to make benchmark good and easy!
+version:            0.07
+abstract:           The tool to make http benchmarking good and easy!
 author:
     - Naim Shafiev <naim@cpan.org>
 license:            gpl
